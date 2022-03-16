@@ -80,7 +80,9 @@ a {
 a:hover {
   text-decoration: underline;
 }
-
+button:hover {
+  transform: scale(1.05);
+}
 /* UI Elements */
 button {
   display: inline-block;
