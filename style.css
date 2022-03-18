@@ -118,6 +118,7 @@ input[type="text"] {
 /* Menu */
 nav {
   display: flex;
+  flex-wrap: wrap;
   padding: 1rem;
   justify-content: space-between;
   align-items: center;
